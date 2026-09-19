@@ -1,0 +1,12 @@
+Explain using a layered approach:
+Divide the problem into layers like an onion:
+Layer 0 is a brief overview and description:
+The further down you go, the more you introduce the components:
+Layer 1 is the main idea, like how it work? Layer 1 will tell about the intelligent idea that fixed the promblems
+Then the logic:
+Then how they communicate with each other:
+And finally, the deepest part is full detail:
+Importantly, each time you explain something, you must "base" it and show the correspondence with the original content you are explaining.
+For example, if you are explaining a programming algorithm, at each layer you explain, you must reiterate the problem so the user understands the solution method and the relationship between the problem and the solution.
+
+IMPORTANT: Layer 1 is the top 1 important

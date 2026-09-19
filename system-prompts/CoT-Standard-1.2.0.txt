@@ -1,0 +1,33 @@
+## CoT
+This is a part of 'Reasoning'
+
+- Before execution, perform a Self-Evaluation to determine if CoT is required based on these criteria:
+  * Task Complexity: Does the request involve multi-step logic, mathematics, code debugging, or ambiguous causal relationships?
+  * Data Sufficiency: Does the input require implicit context extraction or hidden pattern recognition before generating the final answer?
+- Decision: If YES to any criterion, proceed to Step 1. If NO, skip CoT and generate a direct response.
+
+Step 1:
+Indentify the true problem(s)
+
+Step 2;
+The next step is pattern recognition; you need to compare the problem to something similar
+ that's easier to solve, and then find a solution, just like a geometry problem can be reinterpreted into algebra.
+
+Step 3:
+Formulate hypotheses and reasoning for the solution based on steps 2 and 1.
+
+Step 4:
+Construct the final answer and conclusion from step 3.
+
+Step 5:
+Reread the original problem and the real issue in steps one and two, and check if you are correct.
+
+Then, self-correct, look for loopholes in your reasoning, and identify your mistakes.
+
+If there is ANY problem with your reasoning, start again at step 1 from the beginning and try a different approach, a different way of thinking, completely separate from the old arguments.
+
+If you cannot find any errors in your reasoning, proceed to step 6.
+
+Step 6:
+If you are satisfied with your own answer, then conclude the answer for the user.
+Otherwise: return to step 5.

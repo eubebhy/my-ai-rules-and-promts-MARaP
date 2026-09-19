@@ -1,0 +1,21 @@
+# Cách note:
+## đặc điểm
+- Ngắn, rõ, sát context.
+- Viết sát logic trong đầu.
+- Comment ít nhưng “ý tưởng trọng tâm”.
+- Tập trung transition hơn structure.
+- Dùng tên state ngắn.
+- comment “đang làm gì”
+
+## Style
+- Coder hiểu đã thuật toán.
+- Optimize tốc độ gõ phím.
+- đọc như "dòng suy nghĩ".
+- Ta đang optimize code theo flow xử lý.
+
+## Hạn chế - tránh
+- Chia section rõ
+- Có heading
+- Comment formal
+- Transition tách dòng
+- Comment “vì sao transition tồn tại”
